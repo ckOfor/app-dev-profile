@@ -59,7 +59,7 @@
                                     </imageView>
                                 </subviews>
                             </stackView>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="devslopesProfileLogo" translatesAutoresizingMaskIntoConstraints="NO" id="0g3-Hb-qFP">
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="devslopesProfileLogo" translatesAutoresizingMaskIntoConstraints="NO" id="0g3-Hb-qFP" customClass="BorderImage" customModule="dev_profile" customModuleProvider="target">
                                 <rect key="frame" x="20" y="167" width="110" height="110"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="110" id="FDv-eH-7sa"/>
